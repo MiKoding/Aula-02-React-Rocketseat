@@ -1,0 +1,8 @@
+lembrar de configurar o ESLint
+npm i styled-components
+
+---npm i @types/styled-components -d---
+Utilizado para temas de estilização
+
+---npm i react-router-dom---
+Utilizado para rotas de navegação
